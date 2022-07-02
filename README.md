@@ -1,7 +1,8 @@
 Unicorn Companies Analysis Around the World
 
-* A Unicorn company is a private company with a valuation of more than $billion and today there are over 1,000 unicorn companies around the world.
+* A Unicorn company is a private company with a valuation of more than $1 billion and today there are over 1,000 unicorn companies around the world.
 * Dataset contains details of company's current valuation, total funding, country of origin, industry, investors, year founded and became unicorns.
+* In this Project we created an interactive dashboard using Tableau that generates valuable insights.
 
 Tool Used: Tableau 
 
